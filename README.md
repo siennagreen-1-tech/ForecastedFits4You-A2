@@ -19,13 +19,16 @@ Launch
 * [Setup](#setup)
 
 ## General info
-This project prototype is a digital weather-based outfit generator, designed to jelp users make quicker & more weather appropriate outfit choices.
+This project prototype is a digital weather-based outfit generator, designed to help users make quicker & more weather appropriate outfit choices.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python version: 3.14
+* Tkinter (library for GUI)
+* Pillow (for image handling
+* OS module (for file management)
+* Random module (for selecting random images to display)
+
 	
 ## Setup
 To run this project, install it locally using npm:
