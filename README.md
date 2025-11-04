@@ -19,7 +19,7 @@ Launch
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project prototype is a digital weather-based outfit generator, designed to jelp users make quicker & more weather appropriate outfit choices.
 	
 ## Technologies
 Project is created with:
