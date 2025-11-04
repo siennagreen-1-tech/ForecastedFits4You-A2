@@ -34,7 +34,9 @@ Project is created with:
 * Generates Outfits that suit selected weather conditions
 
 ## Screenshots
+<img width="1088" height="819" alt="Screen Shot 2025-11-04 at 11 34 24 pm" src="https://github.com/user-attachments/assets/908d26f6-46b2-44e4-882c-c12b91bf7922" />
 
+<img width="1075" height="815" alt="Screen Shot 2025-11-04 at 11 34 45 pm" src="https://github.com/user-attachments/assets/759bbb16-0ee6-4df2-a81a-3a0dde5cda2d" />
 
 ## Setup
 To run this project, install it locally using npm:
